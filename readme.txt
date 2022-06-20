@@ -9,3 +9,6 @@ dev branch is wode.
 12.
 wode  dev  is  beast。
 我是主分支
+我是子分支
+（分支冲突解决了）
+
